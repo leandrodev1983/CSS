@@ -1,4 +1,4 @@
-# Guia CSS3
+# Guia Rápido - CSS3
 
 ## 1. Introdução
 CSS3 é a mais recente evolução das Folhas de Estilo em Cascata (Cascading Style Sheets), uma tecnologia usada para desenhar e formatar o conteúdo da web. Lançado em módulos a partir de 1999, o CSS3 introduz uma vasta gama de novas funcionalidades e capacidades para designers e desenvolvedores, permitindo a criação de layouts mais complexos, animações suaves, transições, sombras, gradientes e muito mais, tudo isso sem a necessidade de usar imagens ou scripts adicionais. O CSS3 é fundamental para o desenvolvimento de interfaces web modernas, permitindo sites responsivos e adaptáveis a qualquer tamanho de tela ou dispositivo.

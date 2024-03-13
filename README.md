@@ -22,5 +22,5 @@ O CSS é essencial para o design web, permitindo que desenvolvedores e designers
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Documentação completa sobre CSS, incluindo tutoriais e guias para CSS3.
 - [W3Schools - CSS Tutorial](https://www.w3schools.com/css/): Uma introdução abrangente ao CSS, com foco no CSS3.
 - [CSS Tricks](https://css-tricks.com/): Um site cheio de dicas, truques e técnicas avançadas de CSS.
-- [A List Apart - CSS](https://alistapart.com/topic/css/): Artigos profundos sobre técnicas e conceitos de CSS.
+- [Site do Maujor]([https://www.maujor.com/]): Artigos sobre técnicas e conceitos de CSS.
 - [Codecademy - CSS Course](https://www.codecademy.com/learn/learn-css): Curso interativo que cobre tanto o básico quanto aspectos avançados do CSS.
